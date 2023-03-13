@@ -1,6 +1,6 @@
 def sale_price(original, discount):
   #Calculate the sale price here.
-  pass  # lol I didn;t use this
+  pass  # lol I didn't use this
 
 #Write the rest of your program here
 #Grab the input (create the user prompts!)
